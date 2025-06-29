@@ -1,0 +1,13 @@
+file_format: "1"
+id: custom62
+name: Custom62
+type: shield
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - studio
+siblings:
+  - custom62_left
+  - custom62_right
